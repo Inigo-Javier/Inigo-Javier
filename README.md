@@ -3,7 +3,7 @@
 
 <img style="border: 2px solid; color: black;" src="https://wallpapercave.com/wp/5dVAdDa.jpg" width="1200" height="550"/>
 
-<!-- ![imagen bodega](https://static6.depositphotos.com/1007038/613/i/600/depositphotos_6131906-stock-photo-wine-cellar-in-abbey-of.jpg "foto de bodegas") -->
+## ... And welcome to my little place of code ...
 
 
 
