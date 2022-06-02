@@ -1,7 +1,7 @@
 ### Hi, I'm Iñigo 👋
 
 
-<img src="https://static6.depositphotos.com/1007038/613/i/600/depositphotos_6131906-stock-photo-wine-cellar-in-abbey-of.jpg"  width="1000" height="600" />
+<img src="https://static6.depositphotos.com/1007038/613/i/600/depositphotos_6131906-stock-photo-wine-cellar-in-abbey-of.jpg"  width="1100" height="500" />
 
 <!-- ![imagen bodega](https://static6.depositphotos.com/1007038/613/i/600/depositphotos_6131906-stock-photo-wine-cellar-in-abbey-of.jpg "foto de bodegas") -->
 
