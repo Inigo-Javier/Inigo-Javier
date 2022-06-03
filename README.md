@@ -29,7 +29,7 @@ I've been trained in MERN Fullstack technologies and I'm in a continuous learnin
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
- <a href="mailto:malluguizamae@hmail.com">contact me</a>
+ <a href="mailto:malluguizamae@hmail.com">malluguizamae@hmail.com</a>
  
 
 
