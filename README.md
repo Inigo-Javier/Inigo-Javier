@@ -7,8 +7,7 @@
 
 ### About me:
 
-I've been trained in MERN Fullstack technologies and I'm in a continuous learning process, discovering new technologies and facing new challenges
-
+I've been trained in MERN Fullstack technologies and I'm in a continuous learning process, discovering new technologies and facing new challenges.
 
 ### Languages :
  
@@ -26,10 +25,12 @@ I've been trained in MERN Fullstack technologies and I'm in a continuous learnin
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+ <a href="mailto:malluguizamae@hmail.com">contact me</a>
+ 
 
 
  <h4 align="center"> Thanks for Visiting!:innocent:👯</h4>
