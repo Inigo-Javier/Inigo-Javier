@@ -7,7 +7,8 @@
 
 ### About me:
 
-I've been trained in MERN Fullstack technologies and I'm in a continuous learning process, discovering new technologies and facing new challenges.
+I have been prepared in  MongoDB, Express, React and Node technologies.It is popularly known as MERN Stack.
+Nowadays I'm in a continuous learning process, discovering new technologies and facing new challenges.
 
 ### Languages :
  
