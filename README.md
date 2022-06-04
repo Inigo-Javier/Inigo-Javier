@@ -4,8 +4,7 @@
 <!-- <img style="border: 1px solid black;" src="https://wallpapercave.com/wp/5dVAdDa.jpg" width="1200" height="550"/> -->
 <!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 
-<img src="https://wallpapercave.com/wp/5dVAdDa.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="100" />
+![hola](https://wallpapercave.com/wp/5dVAdDa.jpg#thumbnail)
 
 
 ## ... And welcome to my little place of code ...
