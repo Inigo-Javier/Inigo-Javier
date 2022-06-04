@@ -31,6 +31,7 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
 - ⚡ Fun fact: ...
  -->
  [Linkedin](https://www.linkedin.com/in/inigo-malluguiza-castro/)
+ or
  <a href="mailto:malluguizamae@gmail.com">malluguizamae@gmail.com</a>
  
 
