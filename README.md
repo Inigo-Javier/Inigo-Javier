@@ -5,7 +5,7 @@
 <!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 
 <img src="https://wallpapercave.com/wp/5dVAdDa.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="100" />
 
 
 ## ... And welcome to my little place of code ...
