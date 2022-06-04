@@ -30,6 +30,7 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+ [Linkedin](https://www.linkedin.com/in/inigo-malluguiza-castro/)
  <a href="mailto:malluguizamae@gmail.com">malluguizamae@gmail.com</a>
  
 
@@ -37,5 +38,5 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
  <h4 align="center"> Thanks for Visiting!:innocent:👯</h4>
 
 
-thanks to: <a href="https://wallpapercave.com/">wallpapercave</a> for the image resources
+thanks to: [wallpapercave](https://wallpapercave.com/) for the image resources
 
