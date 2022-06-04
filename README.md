@@ -6,7 +6,7 @@
 
 ![hola](https://wallpapercave.com/wp/5dVAdDa.jpg#bordered)
 
-img[src~="bordered"] {
+img[src*="bordered"] {
    border: 1px solid black;
 }
 
