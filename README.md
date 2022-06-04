@@ -2,7 +2,10 @@
 
 
 <!-- <img style="border: 1px solid black;" src="https://wallpapercave.com/wp/5dVAdDa.jpg" width="1200" height="550"/> -->
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
+
+<img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
 
 
 ## ... And welcome to my little place of code ...
