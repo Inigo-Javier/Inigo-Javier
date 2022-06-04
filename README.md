@@ -4,7 +4,11 @@
 <!-- <img style="border: 1px solid black;" src="https://wallpapercave.com/wp/5dVAdDa.jpg" width="1200" height="550"/> -->
 <!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 
-![hola](https://wallpapercave.com/wp/5dVAdDa.jpg#thumbnail)
+![hola](https://wallpapercave.com/wp/5dVAdDa.jpg#bordered)
+
+img[src~="bordered"] {
+   border: 1px solid black;
+}
 
 
 ## ... And welcome to my little place of code ...
