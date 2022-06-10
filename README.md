@@ -40,5 +40,5 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
  <h4 align="center"> Thanks for Visiting!:innocent:👯</h4>
 
 
-thanks to: [wallpapercave](https://wallpapercave.com/) for the image resources
+image resources: [wallpapercave](https://wallpapercave.com/) 
 
