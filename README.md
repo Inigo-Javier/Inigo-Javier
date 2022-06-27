@@ -33,7 +33,7 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
  -->
  [Linkedin](https://www.linkedin.com/in/inigo-malluguiza-castro/)
  or
- <a href="mailto:imalluguizacastro@gmail.com">imalluguizacastro@gmail.com</a>
+ <a href="mailto:imalluguizacastro@gmail.com"><i class="fa-solid fa-mailbox"></i></a>
  
 
 
