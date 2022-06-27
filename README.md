@@ -1,7 +1,7 @@
 # Hi there, I'm Iñigo Malluguiza Castro 👋
-
+<kbd>
 ![landscape](https://wallpapercave.com/wp/5dVAdDa.jpg)
-
+</kbd>
 
 
 ## ... And welcome to my little place of code ...
@@ -31,7 +31,11 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
- <a href="https://www.linkedin.com/in/inigo-malluguiza-castro/"><img src="https://fatimamartinez.es/wp-content/uploads/2018/01/linkedin-logo.jpg"  width="60" height="50" border="5px solid red" /></a>
+ <a href="https://www.linkedin.com/in/inigo-malluguiza-castro/">
+ <kbd>
+ <img src="https://fatimamartinez.es/wp-content/uploads/2018/01/linkedin-logo.jpg"  width="60" height="50" border="5px solid red" />
+  </kbd>
+ </a>
  or
  <a href="mailto:imalluguizacastro@gmail.com"><img src="https://www.pinclipart.com/picdir/big/581-5814741_transparent-sign-post-clipart-send-email-icon-red.png" width="60" height="50"/></a>
  
