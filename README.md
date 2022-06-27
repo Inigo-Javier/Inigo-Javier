@@ -31,7 +31,7 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
- <a href="https://www.linkedin.com/in/inigo-malluguiza-castro/"><img src="https://fatimamartinez.es/wp-content/uploads/2018/01/linkedin-logo.jpg" width="90" height="80" /></a>
+ <a href="https://www.linkedin.com/in/inigo-malluguiza-castro/"><img src="https://fatimamartinez.es/wp-content/uploads/2018/01/linkedin-logo.jpg" width="90" height="80" border="5px solid red /></a>
  or
  <a href="mailto:imalluguizacastro@gmail.com"><img src="https://www.pinclipart.com/picdir/big/581-5814741_transparent-sign-post-clipart-send-email-icon-red.png" width="60" height="50"/></a>
  
