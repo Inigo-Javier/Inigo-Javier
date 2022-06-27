@@ -1,6 +1,7 @@
 # Hi there, I'm Iñigo Malluguiza Castro 👋
 <kbd>
-![landscape](https://wallpapercave.com/wp/5dVAdDa.jpg)
+
+ <img src="https://wallpapercave.com/wp/5dVAdDa.jpg"/>
 </kbd>
 
 
