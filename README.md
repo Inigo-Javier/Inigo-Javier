@@ -1,6 +1,5 @@
 # Hi there, I'm Iñigo Malluguiza Castro 👋
 <kbd>
-
  <img src="https://wallpapercave.com/wp/5dVAdDa.jpg"/>
 </kbd>
 
@@ -38,7 +37,11 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
   </kbd>
  </a>
  or
- <a href="mailto:imalluguizacastro@gmail.com"><img src="https://www.pinclipart.com/picdir/big/581-5814741_transparent-sign-post-clipart-send-email-icon-red.png" width="60" height="50"/></a>
+ <a href="mailto:imalluguizacastro@gmail.com">
+ <kbd>
+ <img src="https://www.pinclipart.com/picdir/big/581-5814741_transparent-sign-post-clipart-send-email-icon-red.png" width="60" height="50"/>
+ </kbd>
+ </a>
  
 
 
