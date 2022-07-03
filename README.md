@@ -23,7 +23,6 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
 
 
 <p align="center">:arrow_down: You can reach me at :arrow_down: </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/inigo-malluguiza-castro" target="_blank" rel="noopener">
    <kbd>
