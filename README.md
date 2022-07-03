@@ -22,15 +22,13 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
 <code><a href ="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a></code>
 
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: 
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+<p align="center">I'm a front-end developer 🌐 Javascript (ES6) | MySQL | MongoDB | Express | React | NodeJS | HTML & CSS | Bootstrap | Git & GitHub</p>
+<p align="center">:arrow_down: You can find me on :arrow_down: </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shirley-gianina/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+</p>
+
  <a href="https://www.linkedin.com/in/inigo-malluguiza-castro/">
   <kbd>
    <img src="https://fatimamartinez.es/wp-content/uploads/2018/01/linkedin-logo.jpg"  width="60" height="50" />
