@@ -33,7 +33,7 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
 </p>
                                                                                                              
 <p align="center">
-or
+or by e-mail at:
 </p>
                  
 <p align="center">
