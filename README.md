@@ -30,6 +30,7 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
 <a href="#" target="_blank"><img src="#" alt="LinkedIn" /></a>&nbsp;
 </p> -->
 
+<p align="center">:arrow_down: You can reach me at :arrow_down: </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/inigo-malluguiza-castro target="_blank">
@@ -38,8 +39,11 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
    </kbd>
   </a>
 </p>
-
+                                                                                                             
+<p align="center">
 or
+</p>
+                 
 <p align="center">
   <a href="mailto:imalluguizacastro@gmail.com" target="_blank">
    <kbd>
