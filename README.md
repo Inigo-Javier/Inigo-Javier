@@ -21,6 +21,8 @@ Nowadays I'm in a continuous learning process, discovering new technologies and 
 
 <code><a href ="#"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a></code>
 
+<code><a href ="#"><img height="40" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png"></a></code>
+
 
 <p align="center">:arrow_down: You can reach me at :arrow_down: </p>
 <p align="center">
